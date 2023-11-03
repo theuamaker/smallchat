@@ -5,3 +5,4 @@ smallchat: smallchat.c
 
 clean:
 	rm -f smallchat
+print("instagram:theuamaker")
